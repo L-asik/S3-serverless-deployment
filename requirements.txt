@@ -1,0 +1,4 @@
+transformers==4.51.1
+torch==2.5.1
+boto3
+Pillow
